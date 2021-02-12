@@ -1,0 +1,2 @@
+System.out.print("박수민");
+System.out.print("바보");
