@@ -1,1 +1,2 @@
-print("바보");
+System.out.print("수민");
+System.out.print("바보:);
